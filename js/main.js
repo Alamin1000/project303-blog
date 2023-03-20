@@ -9,6 +9,8 @@
     nav: true,
     items: 1,
     animateOut: "fadeOut",
+    smartSpeed: 0,
+    mouseDrag: false,
     navText: [
       '<i class="fal fa-chevron-left"></i>',
       '<i class="fal fa-chevron-right"></i>',
